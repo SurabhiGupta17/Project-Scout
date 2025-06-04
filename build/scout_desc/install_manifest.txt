@@ -1,0 +1,15 @@
+/home/surabhi/scout/install/scout_desc/share/scout_desc/urdf/diff_drive.urdf.xacro
+/home/surabhi/scout/install/scout_desc/share/scout_desc/launch/rviz.launch.py
+/home/surabhi/scout/install/scout_desc/share/ament_index/resource_index/package_run_dependencies/scout_desc
+/home/surabhi/scout/install/scout_desc/share/ament_index/resource_index/parent_prefix_path/scout_desc
+/home/surabhi/scout/install/scout_desc/share/scout_desc/environment/ament_prefix_path.dsv
+/home/surabhi/scout/install/scout_desc/share/scout_desc/environment/path.dsv
+/home/surabhi/scout/install/scout_desc/share/scout_desc/local_setup.bash
+/home/surabhi/scout/install/scout_desc/share/scout_desc/local_setup.sh
+/home/surabhi/scout/install/scout_desc/share/scout_desc/local_setup.zsh
+/home/surabhi/scout/install/scout_desc/share/scout_desc/local_setup.dsv
+/home/surabhi/scout/install/scout_desc/share/scout_desc/package.dsv
+/home/surabhi/scout/install/scout_desc/share/ament_index/resource_index/packages/scout_desc
+/home/surabhi/scout/install/scout_desc/share/scout_desc/cmake/scout_descConfig.cmake
+/home/surabhi/scout/install/scout_desc/share/scout_desc/cmake/scout_descConfig-version.cmake
+/home/surabhi/scout/install/scout_desc/share/scout_desc/package.xml
